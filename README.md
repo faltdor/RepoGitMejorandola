@@ -1,2 +1,4 @@
 # RepoGitMejorandola
-Repo de Clase de Git
+Repositorio de Clase de Git- GitHub
+
+
